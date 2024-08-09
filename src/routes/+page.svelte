@@ -29,7 +29,7 @@
 	}
 </script>
 
-<h1 class="text-2xl">Lag et forord</h1>
+<h1 class="text-2xl">Lag et forord "NS-EN 2 - unntak 1"</h1>
 <form on:submit={handleSubmit} class="flex flex-col justify-center gap-3">
 	<div class="flex gap-3">
 		<label class="flex flex-col">
