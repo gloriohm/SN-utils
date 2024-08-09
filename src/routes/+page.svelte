@@ -18,7 +18,7 @@
 	<div class="flex gap-3">
 		<label class="flex flex-col">
 			EN dato:
-			<input type="text" bind:value={enDate} class="outline outline-2 bg-green-500" />
+			<input type="text" bind:value={enDate} class="outline outline-2" />
 		</label>
 		<label class="flex flex-col">
 			NS dato:
