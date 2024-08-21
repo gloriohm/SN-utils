@@ -41,16 +41,16 @@
         </std-meta>
     </front>
 
-    <body />
+    <body></body>
     <back>
         <app-group>
             <app content-type="nat-inform-annex" id="id-b7146278-623c-49f3-affe-a7732d7ecbb8"><label>National Annex NA</label>
                 <annex-type>(informative)</annex-type>
                 <title>Nationally determined parameters for the use of NS-EN 1992-1-1 in Norway</title>
-                <sec id="id-15356f7a-5001-48d8-a294-443185118f20"><label />
+                <sec id="id-15356f7a-5001-48d8-a294-443185118f20"><label></label>
                     <title>Foreword</title>
-                    <p>This revised National Annex, NS-EN 1992-1-1:2004+A1:2014/NA:2024, to NS-EN 1992-1-1:2004+A1:2014 <italic>Eurocode 2: Design of concrete structures – Part 1-1: General rules and rules for buildings</italic> was adopted in xxx 2024.</p>
-                    <p>This document supersedes NS-EN 1992-1-1:2004+A1:2014/NA:2021 and the following changes have been made to the document:</p>
+                    <p>This revised National Annex, NS-EN 1992-1-1:2004+A1:2014/NA:2024, to NS-EN 1992-1-1:2004+A1:2014 <italic>Eurocode 2: Design of concrete structures – Part 1-1: General rules and rules for buildings</italic>, was adopted in xxx 2024.</p>
+                    <p>This document supersedes NS-EN 1992-1-1:2004+A1:2014/NA:2021, and the following changes have been made to the document:</p>
                     <list list-type="dash">
                         <list-item id="id-b8aff2bc-6973-4d4f-e4c0-fa4a2fbd3556"><label>—</label>
                             <p>Tables NA.4.4N and NA.4.5N: Reduced requirement for minimum cover in exposure classes XC2, XC3, and XC4 when using durability class M45, as an alternative to the minimum requirement M60;</p>
@@ -507,7 +507,7 @@
                             </tbody>
                         </table>
                     </array>
-                    <p>All the provisions in this annex have the prefix ‘NA’ to indicate that the provisions are a part of this National Annex.</p>
+                    <p>All the provisions in this annex have the prefix «NA» to indicate that the provisions are a part of this National Annex.</p>
                     <p>In connection with some of the provision’s additional subclauses, figures or formulas may be given. These are numbered (901), (902), (903), (…) following the given numbering.</p>
                     <p>This document contains decision on the application of informative annexes.</p>
                     <p>This document may contain non-conflicting complementary information (NCCI).</p>
@@ -522,7 +522,7 @@
                 </sec>
                 <sec id="id-94ea41fc-4d8b-4321-fd6a-0ca3aa26f298"><label>NA.2.4.2.2</label>
                     <title>Partial factors for prestress</title>
-                    <p>NA.2.4.2.2(1) The partial factor for prestress, <italic>γ</italic><sub>P,fav</sub>, is set equal to 0,9 or 1,1 where this is more unfavorable. In the verification of fatigue, the value of <italic>γ</italic><sub>P,fav</sub> is set equal to 1,0.</p>
+                    <p>NA.2.4.2.2(1) The partial factor for prestress, <italic>γ</italic><sub>P,fav</sub>, is set equal to 0,9 or 1,1 where this is more unfavourable. In the verification of fatigue, the value of <italic>γ</italic><sub>P,fav</sub> is set equal to 1,0.</p>
                     <p>NA.2.4.2.2(2) In the verification of static equilibrium (EQU), the partial factor for external prestress, <italic>γ</italic><sub>P,unfav</sub>, is set equal to 1,3.</p>
                     <p>NA.2.4.2.2(3) In the verification of local effects, the partial factor for prestress, <italic>γ</italic><sub>P,unfav</sub>, is set equal to 1,1. For situations during tensioning, the stressing force is set equal to the maximum stressing force, <italic>P</italic><sub>max</sub>, which should normally not be taken less than <italic>k</italic><sub>3</sub>⋅<italic>f</italic><sub>p0,1k</sub>⋅<italic>A</italic><sub>p</sub>.</p>
                 </sec>
@@ -632,7 +632,7 @@
                     <title>Strength</title>
                     <p>NA.3.1.2(2) The highest strength class, <italic>C</italic><sub>max</sub>, is set equal to B95 equivalent to C95/110. The same strain values may be used as those given for C90/105 in Table 3.1.</p>
                     <non-normative-note><label>NOTE</label>
-                        <p>Normally utilized strength classes in Norway are given in the National Annex to NS-EN 206; the term designates the cylinder strength of the concrete with the prefix ‘B’ for normal weight concrete and heavy aggregate concrete and ‘LB’ for lightweight aggregate concrete.</p>
+                        <p>Normally utilised strength classes in Norway are given in the National Annex to NS-EN 206; the term designates the cylinder strength of the concrete with the prefix ”B” for normal weight concrete and heavy aggregate concrete and ”LB” for lightweight aggregate concrete.</p>
                         <array>
                             <table border="1">
                                 <col width="19.00%" />
@@ -771,7 +771,7 @@
                     <title>General (reinforcing steel)</title>
                     <p>NA.3.2.1(3)P</p>
                     <non-normative-note><label>NOTE</label>
-                        <p>In NS-EN 1992, it is assumed that reinforcing steel in accordance with NS-EN 10080 is used. It specifies the various types of properties for reinforcement (see also 3.2.2(1)P) and the ways in which these are tested. However, with only a few exceptions, it does not set requirements for those properties. Such requirements are given in clauses 3.2.2 to 3.2.6 of this standard and in Annex C. Reinforcement in accordance with NS 3576 may be considered to meet these requirements.</p>
+                        <p>In NS-EN 1992, it is assumed that reinforcing steel in accordance with NS-EN 10080 is used. It specifies the various types of properties for reinforcement (see also 3.2.2(1)P) and the ways in which these are tested, but with only a few exceptions it does not set requirements for those properties. However, such requirements are given in clauses 3.2.2 to 3.2.6 of this standard and in Annex C. Reinforcement in accordance with NS 3576 may be considered to meet these requirements.</p>
                     </non-normative-note>
                 </sec>
                 <sec id="id-1adb6943-604d-43d2-f3ac-fc5756b18697"><label>NA.3.2.2</label>
@@ -908,7 +908,7 @@
                 </sec>
                 <sec id="id-2408fb5a-b456-491a-db0c-035c0fc62dc0"><label>NA.3.3.4</label>
                     <title>Ductility characteristics</title>
-                    <p>NA.3.3.4(5) The factor <italic>k</italic> is set equal to 1,1.</p>
+                    <p>NA.3.3.4(5) The factor, <italic>k</italic>, is set equal to 1,1.</p>
                 </sec>
                 <sec id="id-7b0faf01-7a24-47a2-cfee-595231f6ce91"><label>NA.3.3.6</label>
                     <title>Design assumptions</title>
@@ -918,7 +918,7 @@
                     <title>Environmental conditions</title>
                     <p>NA.4.2(1)</p>
                     <non-normative-note><label>NOTE 1</label>
-                        <p>In Norway, two additional exposure classes, Groups 7 and 8, are defined. In addition, there are other examples for classes X0 and XC1 and a footnote to exposure class XD3; see NS-EN 206/NA</p>
+                        <p>In Norway, two additional exposure classes, Groups 7 and 8, are defined. In addition there are other examples for classes X0 and XC1 and a footnote to exposure class XD3; see NS-EN 206/NA</p>
                     </non-normative-note>
                     <non-normative-note><label>NOTE 2</label>
                         <p>Structures under roof where chlorides are not washed away can experience increased concentrations of chlorides on the surface. See footnote a) in <xref rid="id-6ec7be9d-291a-4e11-968f-8ef2e782d015" ref-type="table">Table NA.4.1 (902)</xref>.</p>
@@ -1055,7 +1055,7 @@
                         </table>
                         <table-wrap-foot id="id-7aece83f-559b-4104-938b-db54cc18afb4">
                             <fn id="id-6f8d8d13-705e-44a8-a19d-f9457cb8969a"><label><sup>a</sup></label>
-                                <p>Where chlorides enrich on surface, special measures need to be considered such as increased concrete cover or using a membrane.</p>
+                                <p>Where chlorides enrich on surface special measures need to be considered such as increased concrete cover or using a membrane.</p>
                             </fn>
                         </table-wrap-foot>
                     </table-wrap>
@@ -1144,7 +1144,7 @@
                         </table-wrap-foot>
                     </table-wrap>
                     <p>NA.4.4.1.2(5) The minimum cover values for reinforcement and pre-stressing tendons with regard to durability <italic>c</italic><sub>min,dur</sub> are given in <xref rid="id-af925f09-9560-4940-fe04-9c4b7ba5c98f" ref-type="table">Table NA.4.4N</xref> and <xref rid="id-bf4f836b-6622-45f6-aa26-3f3c2c7eafe2" ref-type="table">Table NA.4.5N</xref> respectively.</p>
-                    <p>It is assumed that durability classes, as specified in the National Annex to NS-EN 206, are utilized as indicated by the tables and that the chloride content of the concrete is limited, see clause 4.2(3). Chloride class Cl 0,10 shall be used for cement adhesive, mortar and concrete that comes in contact with pre-stressing steel in reinforced concrete structures that are manufactured with sulphate-resistant cement and concrete structures in especially chloride-rich environments (seawater, de-icing salt, etc.). For other reinforced concrete structures, chloride class Cl 0,40 or better shall be used. With regard to durability, Cl 0,2 is recommended. For structures without reinforcement or other encased metal, chloride class Cl 1,0 may be used.</p>
+                    <p>It is assumed that durability classes, as specified in the National Annex to NS-EN 206, are utilised as indicated by the tables and that the chloride content of the concrete is limited, see clause 4.2(3). For cement adhesive, mortar and concrete that comes in contact with pre-stressing steel in reinforced concrete structures that are manufactured with sulphate-resistant cement and concrete structures in especially chloride-rich environments (seawater, de-icing salt, etc.), chloride class Cl 0,10 shall be used. For other reinforced concrete structures, chloride class Cl 0,40 or better shall be used, with regard to durability it is recommended to use Cl 0,2. For structures without reinforcement or other encased metal, chloride class Cl 1,0 may be used.</p>
                     <table-wrap id="id-af925f09-9560-4940-fe04-9c4b7ba5c98f"><label>Table NA.4.4N</label>
                         <caption>
                             <title>Values of minimum cover, <italic>c</italic><sub>min,dur</sub>, requirements with regard to durability for reinforcement steel in accordance with NS-EN 10080</title>
@@ -1170,7 +1170,7 @@
                                     </th>
                                     <th colspan="2" align="center" valign="middle">
                                         <p>
-                                            <bold>Minimum cover <italic>c</italic><sub>min,dur</sub> (in millimeters)</bold>
+                                            <bold>Minimum cover <italic>c</italic><sub>min,dur</sub> (in millimetres)</bold>
                                         </p>
                                     </th>
                                 </tr>
@@ -1286,13 +1286,13 @@
                         </table>
                         <table-wrap-foot id="id-aa35bde9-2b75-4e99-8412-583cb2941123">
                             <fn id="id-8ed79cd8-e55d-41a0-c4ae-7a4fe1fc92bf"><label><sup>a</sup></label>
-                                <p>The choice of durability class for the exposure classes XF, XA and XSA shall be in accordance with NS‑EN 206:2013+A1:2016+NA. For classes XA3 and XA4, the cover should normally not be less than 40 mm for 50 years design working life and 50 mm for 100 years. For class XSA, the complete set of measures shall be given special consideration.</p>
+                                <p>The choice of durability class for the exposure classes XF, XA and XSA shall be in accordance with NS‑EN 206:2013+A1:2016+NA. For classes XA3 and XA4 the cover should normally not be less than 40 mm for 50 years design working life respectively 50 mm for 100 years, for class XSA the complete set of measures shall be given special consideration.</p>
                             </fn>
                             <fn id="id-8b0cf620-9a8c-4aa5-bdfe-efdd92279f2c"><label><sup>b</sup></label>
                                 <p>If the environmental impact is classified in multiple exposure classes, the concrete shall meet the requirements of all associated durability classes.</p>
                             </fn>
                             <fn id="id-744c154c-bebd-4b85-a690-125f8f8c4dc9"><label><sup>c</sup></label>
-                                <p>Reduced cover shall not be used when using cement type CEM III/A or CEM III/B (see NS-EN 206:2013+A2:2021/NA:2022, Table NA.12) in durability class M45 as an alternative to the minimum requirement M60.</p>
+                                <p>Reduced cover shall not be used when using cement type CEM III/A or CEM III/B (see NS-EN 206:2013+A2:2021/NA:2022, table NA.12) in durability class M45 as an alternative to the minimum requirement M60.</p>
                             </fn>
                         </table-wrap-foot>
                     </table-wrap>
@@ -1449,7 +1449,7 @@
                     </table-wrap>
                     <p>NA.4.4.1.2(6) The value of Δ<italic>c</italic><sub>dur,γ</sub> is normally set equal to 0 mm. Higher values may be considered in special cases where there is a particular need to reduce the probability of corrosion damage to the reinforcement.</p>
                     <non-normative-note><label>NOTE</label>
-                        <p>Where it is relevant to consider an increased design working life or a reduced acceptance value for possible corrosion, reference is made to the specialist-literature in the area. The requirements for cover given in <xref rid="id-af925f09-9560-4940-fe04-9c4b7ba5c98f" ref-type="table">Table NA.4.4N</xref> and <xref rid="id-bf4f836b-6622-45f6-aa26-3f3c2c7eafe2" ref-type="table">Table NA.4.5N</xref> are in accordance with the safety requirements for irreversible serviceability limit stated in NS-EN 1990:2002+A1:2005 Annex B and Annex C. A value for Δ<italic>c</italic><sub>dur,γ</sub> equal to 10 mm will give a considerable increase in the design working life for an unchanged probability of corrosion damage, or a considerable reduction in the probability of corrosion damage for an unchanged design working life.</p>
+                        <p>Where it is relevant to consider an increased design working life or a reduced acceptance value for possible corrosion, reference is made to the specialist-literature in the area. The requirements for cover given in <xref rid="id-af925f09-9560-4940-fe04-9c4b7ba5c98f" ref-type="table">Table NA.4.4N</xref> and <xref rid="id-bf4f836b-6622-45f6-aa26-3f3c2c7eafe2" ref-type="table">Table NA.4.5N</xref> are in accordance with the safety requirements for irreversible serviceability limit states in NS-EN 1990:2002+A1:2005 Annex B and Annex C. A value for Δ<italic>c</italic><sub>dur,γ</sub> equal to 10 mm will give a considerable increase in the design working life for an unchanged probability of corrosion damage, or a considerable reduction in the probability of corrosion damage for an unchanged design working life.</p>
                     </non-normative-note>
                     <p>NA.4.4.1.2(7) The value of Δ<italic>c</italic><sub>dur,st</sub> is normally set equal to 0 mm. Depending on the nobility of the steel, higher values may be used based on methods described in specialist-literature, but not greater than 15 mm.</p>
                     <p>NA.4.4.1.2(8) The value of Δ<italic>c</italic><sub>dur,add</sub> is normally set equal to 0 mm. A higher value may be considered based on the protective measures in each individual case.</p>
@@ -1461,7 +1461,7 @@
                     <p>NA.4.4.1.3(3) The allowance in design for the maximum negative deviation Δ<italic>c</italic><sub>dev</sub> may be reduced to 5 mm if the following requirements are met:</p>
                     <list list-type="dash">
                         <list-item id="id-27b487a2-bf7d-4ee6-8be1-95900b489199"><label>—</label>
-                            <p>fabrication is subjected to a quality assurance system in which the monitoring includes measurements of the concrete cover;</p>
+                            <p>fabrication is subjected to a quality assurance system, in which the monitoring includes measurements of the concrete cover;</p>
                         </list-item>
                         <list-item id="id-25fac3ea-c6a6-4275-e5b1-777d5ce58745"><label>—</label>
                             <p>a very accurate measurement device is used for monitoring and non-conforming members are rejected and/or repaired.</p>
@@ -1555,7 +1555,7 @@
                     <p>where <italic>λ</italic><sub>n,lim</sub> is defined depending on:</p>
                     <p>for compression members where the ends are braced and that do not have transverse load.:</p>
                     <disp-formula id="id-574c11c7-1ceb-4d3e-f8cd-c7290fbbd738"><label>(NA.5.13.aN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-c7e0be9f-1967-46a7-99d1-5da331bb890f">
+                        <mml:math id="id-c7e0be9f-1967-46a7-99d1-5da331bb890f" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>λ</mml:mi>
                                 <mml:mrow>
@@ -1586,7 +1586,7 @@
                     </disp-formula>
                     <p>for compression members where one end is unbraced and for compression members that have transverse load:</p>
                     <disp-formula id="id-da2e55d1-e138-4b1e-f782-361b39f27823"><label>(NA.5.13.bN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-dc1c8867-bed3-4725-edfe-9c2eb28c1142">
+                        <mml:math id="id-dc1c8867-bed3-4725-edfe-9c2eb28c1142" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>λ</mml:mi>
                                 <mml:mrow>
@@ -1626,9 +1626,9 @@
                             </def-list>
                         </non-normative-note>
                     </disp-formula>
-                    <p>Normalized slenderness <italic>λ</italic><sub>n</sub> is defined by</p>
-                    <disp-formula id="id-e66c4b21-0420-4a95-d3af-7a379166d195"><label />
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-e57f03a8-f8bd-4749-c885-83eefff66cb8">
+                    <p>Normalised slenderness <italic>λ</italic><sub>n</sub> is defined by</p>
+                    <disp-formula id="id-e66c4b21-0420-4a95-d3af-7a379166d195"><label></label>
+                        <mml:math id="id-e57f03a8-f8bd-4749-c885-83eefff66cb8" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>λ</mml:mi>
                                 <mml:mi mathvariant="normal">n</mml:mi>
@@ -1742,7 +1742,7 @@
                 <sec id="id-e40a8e37-0b90-4c03-e51e-932b2709bf53"><label>NA.5.10.8</label>
                     <title>Effects of prestressing at ultimate limit state</title>
                     <p>NA.5.10.8(2) The increase of the stress, Δσ<sub>p,ULS</sub>, may be assumed to be 100 MPa provided that the tendons are located on the tension side both in spans and above supports.</p>
-                    <p>NA.5.10.8(3) The most unfavorable of the factors <italic>γ</italic>Δ<sub>P,sup</sub> and <italic>γ</italic>Δ<sub>P,inf</sub> is the one to be used.</p>
+                    <p>NA.5.10.8(3) The most unfavourable of the factors <italic>γ</italic>Δ<sub>P,sup</sub> and <italic>γ</italic>Δ<sub>P,inf</sub> is the one to be used.</p>
                     <p>If the calculation of deformations is performed assuming a cracked section, <italic>γ</italic><sub>ΔP,sup</sub> is set equal to 1,2, and <italic>γ</italic><sub>ΔP,inf</sub> is set equal to 0,8. If the deformations are calculated assuming an uncracked section, <italic>γ</italic><sub>ΔP,sup</sub> and <italic>γ</italic><sub>ΔP,inf</sub> may be set equal to 1,0.</p>
                 </sec>
                 <sec id="id-2d251ab0-ba54-4b8b-f307-3c662aa686ca"><label>NA.5.10.9</label>
@@ -1752,8 +1752,8 @@
                 <sec id="id-5161b031-dcc8-4b6b-e060-792d88004d4c"><label>NA.6.2.2</label>
                     <title>Members not requiring design shear reinforcement</title>
                     <p>NA.6.2.2(1) The factor <italic>C</italic><sub>Rd,c</sub> is set equal to <italic>k</italic><sub>2</sub>/<italic>γ</italic><sub>C</sub></p>
-                    <disp-formula id="id-24aeec4d-0f0f-4e1f-c98f-823c7909457f"><label />
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-5bec4910-568d-4dcd-cb76-f05d632696f0">
+                    <disp-formula id="id-24aeec4d-0f0f-4e1f-c98f-823c7909457f"><label></label>
+                        <mml:math id="id-5bec4910-568d-4dcd-cb76-f05d632696f0" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>C</mml:mi>
                                 <mml:mrow>
@@ -1800,7 +1800,7 @@
                     <p>The factor <italic>k</italic><sub>1</sub> is set equal to 0,15 for compression and equal to 0,3 for tension (σ<sub>cp</sub> negative for tension).</p>
                     <p>The minimum shear resistance associated with principal tensile failure, <italic>ν</italic><sub>min</sub>, is determined as:</p>
                     <disp-formula id="id-1745a0e5-4215-4766-de08-613fd371d533"><label>(NA.6.3N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-6314691e-be7e-4534-a4b2-6f1cbfea0bde">
+                        <mml:math id="id-6314691e-be7e-4534-a4b2-6f1cbfea0bde" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>ν</mml:mi>
                                 <mml:mi>min</mml:mi>
@@ -1832,13 +1832,13 @@
                             </mml:msup>
                         </mml:math>
                     </disp-formula>
-                    <p>It is assumed that <italic>f</italic><sub>ck</sub> is not given a value greater than 65 MPa in formulas (6.2.a) and (6.3N).</p>
+                    <p>It is assumed that <italic>f</italic><sub>ck</sub> is not given a value greater than 65 MPa in formulae (6.2.a) and (6.3N).</p>
                     <non-normative-note><label>NOTE</label>
                         <p>Design shear force <italic>v</italic><sub>Ed</sub> is normally set equal to the principal shear force <italic>v</italic><sub>res</sub> = (<italic>v</italic><sub>Ed,x</sub><sup>2</sup> + <italic>v</italic><sub>Ed,y</sub><sup>2</sup>)<sup>0,5</sup>; it can, however, be dimensioned independently in the two directions if the ratio between the minimum and the maximum shear force is not greater than 0,5.</p>
                     </non-normative-note>
                     <p>NA.6.2.2(6) The factor <italic>ν</italic> is determined as:</p>
                     <disp-formula id="id-b792ce94-721a-45e1-be60-79f25c9a91a8"><label>(NA.6.6N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-7ec81088-40e6-4a56-9875-b246d1b48602">
+                        <mml:math id="id-7ec81088-40e6-4a56-9875-b246d1b48602" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:mi>ν</mml:mi>
                             <mml:mo></mml:mo>
                             <mml:mo>=</mml:mo>
@@ -1865,7 +1865,7 @@
                     <title>Members requiring design shear reinforcement</title>
                     <p>NA.6.2.3(2) The value of cot<italic>θ</italic> may be chosen in the range determined by formula (NA.6.7.aN), except in sections with significant axial tension (<italic>σ</italic><sub>t</sub> = <italic>N</italic><sub>Ed</sub>/<italic>A</italic><sub>c</sub> ≥ <italic>f</italic><sub>ctk, 0,05</sub>). There cot<italic>θ</italic> is determined by the formula (NA.6.7.bN).</p>
                     <disp-formula id="id-f95183c2-4f2d-440f-a8ff-9628aaffdb87"><label>(NA.6.7.aN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-8099f3aa-aa31-4669-cfb7-eba7c6a3911e">
+                        <mml:math id="id-8099f3aa-aa31-4669-cfb7-eba7c6a3911e" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:mn>1</mml:mn>
                             <mml:mo>,</mml:mo>
                             <mml:mn>0</mml:mn>
@@ -1884,7 +1884,7 @@
                         </mml:math>
                     </disp-formula>
                     <disp-formula id="id-66c68299-ccd6-46d9-d709-4989cf1896a9"><label>(NA.6.7.bN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-5b438be1-9650-4888-f073-a2b8aa5b8bb3">
+                        <mml:math id="id-5b438be1-9650-4888-f073-a2b8aa5b8bb3" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:mn>1</mml:mn>
                             <mml:mo>,</mml:mo>
                             <mml:mn>0</mml:mn>
@@ -1928,7 +1928,7 @@
                         <italic>ν</italic><sub>1</sub> may be determined on the basis of formulas (NA.6.10.aN) and (NA.6.10.bN).
                     </p>
                     <disp-formula id="id-d82e5215-adcf-42ff-9799-a5b7b4a74e1f"><label>(NA.6.10.aN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-422e03da-ab40-4e4d-8293-ea9c85d79397">
+                        <mml:math id="id-422e03da-ab40-4e4d-8293-ea9c85d79397" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>ν</mml:mi>
                                 <mml:mn>1</mml:mn>
@@ -1955,7 +1955,7 @@
                         </mml:math>
                     </disp-formula>
                     <disp-formula id="id-d6039ba3-5ccd-4f3b-dfd4-ce93f7f5abf3"><label>(NA.6.10.bN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-42cd759d-acbb-46d5-e0aa-adc132f7c74e">
+                        <mml:math id="id-42cd759d-acbb-46d5-e0aa-adc132f7c74e" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>ν</mml:mi>
                                 <mml:mn>1</mml:mn>
@@ -1997,7 +1997,7 @@
                     </disp-formula>
                     <p>The factor <italic>α</italic><sub>cw</sub> is set equal to 1 in structures without prestressing or axial compression. In structures with prestressing or axial compression, <italic>α</italic><sub>cw</sub> is determined on the basis of the formulas (NA.6.11.aN), (NA.6.11.bN) and (NA.6.11.cN).</p>
                     <disp-formula id="id-280a494c-8899-4288-ae08-d9591ce914ee"><label>(NA.6.11.aN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-f1849a70-2d8b-49aa-e8e2-188ed2e6facb">
+                        <mml:math id="id-f1849a70-2d8b-49aa-e8e2-188ed2e6facb" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>α</mml:mi>
                                 <mml:mi>cw</mml:mi>
@@ -2045,7 +2045,7 @@
                         </mml:math>
                     </disp-formula>
                     <disp-formula id="id-d15eff42-4bce-473b-fbc9-8159eae900be"><label>(NA.6.11.bN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-58fb1881-fca4-4d9f-d7fb-2a558e356c48">
+                        <mml:math id="id-58fb1881-fca4-4d9f-d7fb-2a558e356c48" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>α</mml:mi>
                                 <mml:mi>cw</mml:mi>
@@ -2087,7 +2087,7 @@
                         </mml:math>
                     </disp-formula>
                     <disp-formula id="id-577d45b0-3ada-4268-e8ef-0bf83a0ab251"><label>(NA.6.11.cN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-e46bffb7-e545-4b83-ebcc-1a358e9a853c">
+                        <mml:math id="id-e46bffb7-e545-4b83-ebcc-1a358e9a853c" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>α</mml:mi>
                                 <mml:mi>cw</mml:mi>
@@ -2148,7 +2148,7 @@
                     <title>Shear between web and flanges of T-sections</title>
                     <p>NA.6.2.4(4) The value of cot<italic>θ</italic> may be chosen in the range determined by formulas (NA.6.7.aN) and (NA.6.7.bN):</p>
                     <disp-formula id="id-64717f19-7af9-430a-a191-c1df7113e986"><label>(NA.6.7.aN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-ec1b4285-d52c-4734-b6cf-ad40492aa5f8">
+                        <mml:math id="id-ec1b4285-d52c-4734-b6cf-ad40492aa5f8" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:mn>1</mml:mn>
                             <mml:mo>,</mml:mo>
                             <mml:mn>0</mml:mn>
@@ -2174,7 +2174,7 @@
                         </mml:math>
                     </disp-formula>
                     <disp-formula id="id-f6b955bb-9eab-4e7b-cd29-700c026cf9f5"><label>(NA.6.7.bN)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-9f5e7ac0-f0e2-49d8-d6e8-637a9abe046e">
+                        <mml:math id="id-9f5e7ac0-f0e2-49d8-d6e8-637a9abe046e" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:mn>1</mml:mn>
                             <mml:mo>,</mml:mo>
                             <mml:mn>0</mml:mn>
@@ -2237,8 +2237,8 @@
                 <sec id="id-be053dfc-179e-483d-8d31-72c16868dfa4"><label>NA.6.4.4</label>
                     <title>Punching shear resistance of slabs and column bases without shear reinforcement</title>
                     <p>NA.6.4.4(1) The factor <italic>C</italic><sub>Rd,c</sub> is set equal to <italic>k</italic><sub>2</sub>/<italic>γ</italic><sub>C</sub></p>
-                    <disp-formula id="id-df952b12-13fd-4fd4-a055-8a90000c8412"><label />
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-07b24fea-b16f-4ba8-8ae8-6467359af6ba">
+                    <disp-formula id="id-df952b12-13fd-4fd4-a055-8a90000c8412"><label></label>
+                        <mml:math id="id-07b24fea-b16f-4ba8-8ae8-6467359af6ba" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>C</mml:mi>
                                 <mml:mrow>
@@ -2285,7 +2285,7 @@
                     <p>The factor <italic>k</italic><sub>1</sub> is set equal to 0,1 for compression and equal to 0,3 for tension (<italic>σ</italic><sub>cp</sub> negative for tension).</p>
                     <p>The minimum shear resistance associated with principal tensile failure, <italic>ν</italic><sub>min</sub>, is determined as:</p>
                     <disp-formula id="id-d4c0b7a2-1a17-4d93-9769-35df25807712"><label>(NA.6.3N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-3f4f529f-3d27-4aed-e71f-1c4c59809538">
+                        <mml:math id="id-3f4f529f-3d27-4aed-e71f-1c4c59809538" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>ν</mml:mi>
                                 <mml:mi>min</mml:mi>
@@ -2322,7 +2322,7 @@
                 <sec id="id-518918a9-8f08-4117-bb63-30339892f28c"><label>NA.6.4.5</label>
                     <title>Punching shear resistance of slabs and column bases with shear reinforcement</title>
                     <p>NA.6.4.5(1) The value of <italic>k</italic><sub>max</sub> is set equal to 1,5 for stirrups and 1,8 for bolts/rods with T-heads or reinforcement ladders with documented capacity as shear reinforcement, stirrups and bolts/rods with T‑heads are anchored around the tension reinforcement, see 9.2.2(2). The value of <italic>k</italic><sub>max</sub> is also used for light weight aggregate concrete in formula (11.6.52)</p>
-                    <p>NA.6.4.5(3) The value of <italic>v</italic><sub>Rd,max</sub> is set equal to 0,4<italic>νf</italic><sub>cd</sub>, this also applies to structures of lightweight aggregate concrete, but with the relevant strength values for lightweight aggregate concrete, see NA.11.6.4.2(2).</p>
+                    <p>NA.6.4.5(3) The value of <italic>v</italic><sub>Rd,max</sub> is set equal to 0,4<italic>νf</italic><sub>cd</sub>, this also apply to structures of lightweight aggregate concrete, but with the relevant strength values for lightweight aggregate concrete, see NA.11.6.4.2(2).</p>
                     <p>NA.6.4.5(4) The factor <italic>k</italic> is set equal to 1,0.</p>
                 </sec>
                 <sec id="id-1af5d077-ebd0-423f-d431-e8e9bd39e157"><label>NA.6.5.2</label>
@@ -2669,9 +2669,9 @@
                 </sec>
                 <sec id="id-a18a674c-3e9d-46f6-d812-5d0418aa1a6f"><label>NA.7.3.1</label>
                     <title>General considerations (crack control)</title>
-                    <p>NA.7.3.1(5) Out of consideration for the durability of the structure, the calculated crack width, <italic>w</italic><sub>k</sub>, is limited taking into account the environmental exposure conditions of the structure. The limiting calculated crack width, <italic>w</italic><sub>max</sub>, is given in <xref rid="id-dcd5283b-c6b4-43c1-efb6-e7b73671f583" ref-type="table">Table NA.7.1N</xref> for the calculated value of <italic>w</italic><sub>k</sub>. Here, the factor, <italic>k</italic><sub>c</sub>, takes into account the effect of greater cover than the requirement for <italic>c</italic><sub>min,dur</sub> and is determined by the formula:</p>
+                    <p>NA.7.3.1(5) Out of consideration for the durability of the structure, the calculated crack width, <italic>w</italic><sub>k</sub>, is limited taking into account the environmental exposure conditions of the structure. The limiting calculated crack width, <italic>w</italic><sub>max</sub>, is given in <xref rid="id-dcd5283b-c6b4-43c1-efb6-e7b73671f583" ref-type="table">Table NA.7.1N</xref> for the calculated value of <italic>w</italic><sub>k</sub>. Here the factor, <italic>k</italic><sub>c</sub>, takes into account the effect of greater cover than the requirement for <italic>c</italic><sub>min,dur</sub> and is determined by the formula:</p>
                     <disp-formula id="id-a1bf46a4-f5a9-410e-d3d1-c9aa2d743063"><label>(NA.901)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-16415a64-fa1c-465e-e62b-f48154eb1cc5">
+                        <mml:math id="id-16415a64-fa1c-465e-e62b-f48154eb1cc5" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>k</mml:mi>
                                 <mml:mi mathvariant="normal">c</mml:mi>
@@ -2849,13 +2849,13 @@
                         </table>
                         <table-wrap-foot id="id-9c0db53e-b10d-440d-8721-1ebd297a8fba">
                             <fn id="id-a543f116-43cd-4e51-d522-3d8c05932305"><label><sup>a</sup></label>
-                                <p>Where the prestressing steel lies within a layer of ordinary reinforcement, the calculated crack width must meet the requirements for both ordinary reinforcement and prestressing steel. For verification against the requirement for prestressing steel the frequent load combinations are used, the calculated crack width may be adjusted with the formula <italic>w</italic><sub>2k</sub> = <italic>w</italic><sub>k</sub> (<italic>ε</italic><sub>s2</sub> / <italic>ε</italic><sub>s1</sub>), where <italic>ε</italic><sub>s1</sub> is the tensile strain in the reinforcement on the side with greatest strain, <italic>ε</italic><sub>s2</sub> is the tensile strain at the level of the prestressing steel and <italic>w</italic><sub>2k</sub> is an adjusted calculated crack width that is compared with the limiting values in the table.</p>
+                                <p>Where the pre-stressing steel lies within a layer of ordinary reinforcement, the calculated crack width must meet the requirements for both ordinary reinforcement and pre-stressing steel. For verification against the requirement for prestressing steel the frequent load combinations are used, the calculated crack width may be adjusted with the formula <italic>w</italic><sub>2k</sub> = <italic>w</italic><sub>k</sub> (<italic>ε</italic><sub>s2</sub> / <italic>ε</italic><sub>s1</sub>), where <italic>ε</italic><sub>s1</sub> is the tensile strain in the reinforcement on the side with greatest strain, <italic>ε</italic><sub>s2</sub> is the tensile strain at the level of the prestressing steel and <italic>w</italic><sub>2k</sub> is an adjusted calculated crack width that is compared with the limiting values in the table.</p>
                             </fn>
                             <fn id="id-1e221868-304c-4a73-8c83-719f5280ce64"><label><sup>b</sup></label>
                                 <p>For the X0 exposure class, crack width has no influence on durability, and this limit is set to guarantee acceptable appearance. In the absence of appearance conditions, this limit may be relaxed.</p>
                             </fn>
                             <fn id="id-b6d65b29-2dd6-454f-a58f-010a40d5186a"><label><sup>c</sup></label>
-                                <p>Where verification that decompression does not occur is required, the whole section of prestressing steel, and where relevant the duct for post-tensioned tendons, should lie at least Δ<italic>c</italic><sub>dev</sub> within the compression zone.</p>
+                                <p>Where verification that decompression does not occur is required, the whole section of pre-stressing steel and where relevant the duct for post-tensioned tendons, should lie at least Δ<italic>c</italic><sub>dev</sub> within the compression zone.</p>
                             </fn>
                             <fn id="id-85071bf8-38d1-4796-cd68-aad412f39dea"><label><sup>d</sup></label>
                                 <p>A total assessment is necessary in these cases in order to arrive at an appropriate combination of structural detailing, material composition, cover, limitation of crack width and other protective measures.</p>
@@ -2948,7 +2948,7 @@
                 </sec>
                 <sec id="id-ed218160-f968-4e3c-8752-0a735e763872"><label>NA.8.3</label>
                     <title>Permissible mandrel diameters for bent bars</title>
-                    <p>NA.8.3(2) The minimum permitted mandrel diameter <italic>ϕ</italic><sub>m,min</sub> is determined in order to avoid damage to the reinforcement and failure of the concrete caused by the deviatory stresses from the reinforcement. The mandrel diameter <italic>ϕ</italic><sub>m,min</sub> shall not be less than the larger of the values given in Table NA.8.1N and the value determined by formula (8.1).</p>
+                    <p>NA.8.3(2) The minimum permitted mandrel diameter <italic>ϕ</italic><sub>m,min</sub> is determined in order to avoid damage to the reinforcement and failure of the concrete caused by the deviatory stresses from the reinforcement. The mandrel diameter <italic>ϕ</italic><sub>m,min</sub> shall not be less than the larger of the value given in Table NA.8.1N and the value determined by formula (8.1).</p>
                     <p>For bending of reinforcing steel in accordance with NS 3576, values given in <xref rid="id-5007fe5f-8383-4b5f-ee99-5aa324b9f185" ref-type="table">Table NA.8.1N.c)</xref> may be used. For bars that are to be bent or straightened, values in <xref rid="id-13948126-cf30-4d07-ca33-0cbbea0bfd36" ref-type="table">Table NA.8.1N.a)</xref> may be used.</p>
                     <p>For the use of reinforcement other than in accordance with NS 3576, the values ascribed to <italic>ϕ</italic><sub>m,min</sub> given in <xref rid="id-13948126-cf30-4d07-ca33-0cbbea0bfd36" ref-type="table">Table NA.8.1N.a)</xref> shall be used.</p>
                     <p>For welded bent reinforcement or mesh, the values ascribed to ϕ<sub>m,min</sub> given in <xref rid="id-95a59cbb-47f4-4532-e881-10e79b6b707d" ref-type="table">Table NA.8.1N.b)</xref> shall be used.</p>
@@ -3385,7 +3385,7 @@
                     <title>Anchorage by welded bars</title>
                     <p>NA.8.6(2) The anchorage capacity of one welded transverse bar is given by the formula:</p>
                     <disp-formula id="id-5a2e8fd2-8205-4c9f-bc24-88f9efd2a2db"><label>(NA.8.8)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-85cd7098-060c-4e6a-db96-ed88a523b255">
+                        <mml:math id="id-85cd7098-060c-4e6a-db96-ed88a523b255" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>F</mml:mi>
                                 <mml:mi>btd</mml:mi>
@@ -3440,7 +3440,7 @@
                     <title>Minimum and maximum reinforcement areas</title>
                     <p>NA.9.2.1.1(1) The minimum area of reinforcement, <italic>A</italic><sub>s,min</sub>, is determined by the formula</p>
                     <disp-formula id="id-dd11dfa3-e7a4-40dc-dbdd-9568b364c37b"><label>(NA.9.1N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-435b3391-3e47-43d0-ac2b-2ce5424ecadb">
+                        <mml:math id="id-435b3391-3e47-43d0-ac2b-2ce5424ecadb" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>A</mml:mi>
                                 <mml:mrow>
@@ -3502,7 +3502,7 @@
                     <p>NA.9.2.2(4) The factor <italic>β</italic><sub>3</sub> is set equal to 0,5. However, the contribution of links to the shear reinforcement shall be no less than <italic>ρ</italic><sub>w,min</sub>, which is determined by the formula (NA.9.5N).</p>
                     <p>NA.9.2.2(5) The minimum shear reinforcement ratio, <italic>ρ</italic><sub>w,min</sub>, shall take the form of links. The area is determined by the formula</p>
                     <disp-formula id="id-714cc9de-4840-43d8-9f40-15c0f157f9c1"><label>(NA.9.5N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-740c30ee-0c99-4f19-ec3c-fd59607dece1">
+                        <mml:math id="id-740c30ee-0c99-4f19-ec3c-fd59607dece1" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>ρ</mml:mi>
                                 <mml:mrow>
@@ -3539,7 +3539,7 @@
                     <p>Beams with a depth greater than 1000 mm shall be provided with a longitudinal surface reinforcement as indicated in NA.9.7(1).</p>
                     <p>NA.9.2.2(6) The maximum longitudinal spacing between shear assemblies, <italic>s</italic><sub>l,max</sub>, is determined by the formula:</p>
                     <disp-formula id="id-7750a04f-bff3-4dcb-d900-aff22a0bd64e"><label>(NA.9.6N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-c210e8ac-f8ca-413d-f57d-22aba30d0b41">
+                        <mml:math id="id-c210e8ac-f8ca-413d-f57d-22aba30d0b41" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>s</mml:mi>
                                 <mml:mrow>
@@ -3569,7 +3569,7 @@
                     <p>where <italic>h</italic>’ is the distance between lines of gravity of the tension reinforcement and the compression reinforcement.</p>
                     <p>NA.9.2.2(7) The maximum longitudinal spacing between bent bars, <italic>s</italic><sub>b,max</sub>, is determined by the formula:</p>
                     <disp-formula id="id-f00fad0e-f217-4001-ce74-3a1edfa52ffe"><label>(NA.9.7N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-997439f6-5031-44c3-8c15-4bcc0b23656d">
+                        <mml:math id="id-997439f6-5031-44c3-8c15-4bcc0b23656d" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>S</mml:mi>
                                 <mml:mrow>
@@ -3599,7 +3599,7 @@
                     <p>where <italic>h</italic>’ is the distance between lines of gravity of the tension reinforcement and the compression reinforcement.</p>
                     <p>NA.9.2.2(8) The maximum transverse spacing between shear assemblies, <italic>s</italic><sub>t,max</sub>, is determined by the formula:</p>
                     <disp-formula id="id-7b15b6b4-be5d-4a89-941a-ce7f92050120"><label>(NA.9.8N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-9a439428-41ef-4373-a2ff-73bbccf30357">
+                        <mml:math id="id-9a439428-41ef-4373-a2ff-73bbccf30357" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>S</mml:mi>
                                 <mml:mrow>
@@ -3642,14 +3642,14 @@
                             <p>3<italic>h</italic> ≤ 400 mm for secondary reinforcement.</p>
                         </list-item>
                     </list>
-                    <p>Here, structural reinforcement is regarded as principal reinforcement.</p>
+                    <p>Reinforcement that is required structurally is regarded here as principal reinforcement.</p>
                 </sec>
                 <sec id="id-adc9a096-1b69-4781-fe29-9046a23deb33"><label>NA.9.5.2</label>
                     <title>Longitudinal reinforcement</title>
                     <p>NA.9.5.2(1) The minimum bar diameter <italic>ϕ</italic><sub>min</sub> is set equal to 12 mm.</p>
                     <p>NA.9.5.2(2) The minimum area of longitudinal reinforcement, <italic>A</italic><sub>s,min</sub>, is determined by the formula</p>
                     <disp-formula id="id-31f24455-209b-47c7-deaa-4dd83d955e07"><label>(NA.9.12N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-77b4971a-abfe-40fb-b59c-3f8b848f60af">
+                        <mml:math id="id-77b4971a-abfe-40fb-b59c-3f8b848f60af" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>A</mml:mi>
                                 <mml:mrow>
@@ -3788,7 +3788,7 @@
                     <p>The factor <italic>k</italic><sub>1</sub> is set equal to 0,15 for compression and equal to 0,3 for tension (<italic>σ</italic><sub>cp</sub> negative for tension).</p>
                     <p>The minimum shear resistance associated with principle tensile failure, <italic>ν</italic><sub>l,min</sub>, is determined as:</p>
                     <disp-formula id="id-049b4662-b4d6-4356-c578-926984016d50"><label>(NA.11.6.3)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-c3d5fade-9d50-459f-93bf-506265f7a1ce">
+                        <mml:math id="id-c3d5fade-9d50-459f-93bf-506265f7a1ce" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>ν</mml:mi>
                                 <mml:mrow>
@@ -3830,7 +3830,7 @@
                     <title>Members requiring design shear reinforcement</title>
                     <p>NA.11.6.2.(1) The factor <italic>ν</italic><sub>l</sub> follows from:</p>
                     <disp-formula id="id-2b0193bb-babc-4491-e38f-4728bb3e8bb8"><label>(NA.11.6.6N)</label>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="id-8c5fd534-264a-4aeb-bbc5-c843ea22ac98">
+                        <mml:math id="id-8c5fd534-264a-4aeb-bbc5-c843ea22ac98" xmlns:mml="http://www.w3.org/1998/Math/MathML">
                             <mml:msub>
                                 <mml:mi>ν</mml:mi>
                                 <mml:mi mathvariant="normal">l</mml:mi>
@@ -3879,13 +3879,13 @@
                 <sec id="id-1c310e52-f847-4eef-84c5-7822abc23776"><label>NA.A.2.1</label>
                     <title>Reduction based on quality control and reduced deviations</title>
                     <p>NA.A.2.1(1) The partial safety factor for reinforcement, <italic>γ</italic><sub>S,red1</sub>, is set equal to <italic>γ</italic><sub>S</sub> equals 1,15.</p>
-                    <p>NA.A.2.1(2) The partial safety factor for concrete, <italic>γ</italic><sub>C,red1</sub>, is set equal to <italic>γ</italic><sub>C</sub> equals 1,4.</p>
+                    <p>NA.A.2.1(2) The partial safety factor for concrete, <italic>γ</italic><sub>C,red1</sub>,is set equal to <italic>γ</italic><sub>C</sub> equals 1,4.</p>
                 </sec>
                 <sec id="id-fb27df33-a9e2-4be0-e09c-69dc00e411f9"><label>NA.A.2.2</label>
                     <title>Reduction based on using reduced or measured geometrical data in design</title>
-                    <p>NA.A.2.2(1) The partial safety factor for reinforcement, <italic>γ</italic><sub>S,red2</sub>, may be set equal to 1,1.</p>
-                    <p>The partial safety factor for concrete, <italic>γ</italic><sub>C,red2</sub>, is set equal to <italic>γ</italic><sub>C</sub> equal to 1,5.</p>
-                    <p>NA.A.2.2(2) The partial safety factor for concrete, <italic>γ</italic><sub>C,red3</sub>, may be set equal to 1,35.</p>
+                    <p>NA.A.2.2(1) The partial safety factor for reinforcement, <italic>γ</italic><sub>S,red2</sub>,may be set equal to 1,1.</p>
+                    <p>The partial safety factor for concrete, <italic>γ</italic><sub>C,red2</sub>,is set equal to <italic>γ</italic><sub>C</sub> equal to 1,5.</p>
+                    <p>NA.A.2.2(2) The partial safety factor for concrete, <italic>γ</italic><sub>C,red3</sub>,may be set equal to 1,35.</p>
                 </sec>
                 <sec id="id-0097e5b3-fcea-422f-e4c2-b33c936c57b8"><label>NA.A.2.3</label>
                     <title>Reduction based on assessment of concrete strength in finished structure</title>
@@ -3982,7 +3982,7 @@
                                 </tr>
                                 <tr>
                                     <td align="center" valign="middle">
-                                        <p>6,5 to 12</p>
+                                        <p>6,5 til 12</p>
                                     </td>
                                     <td align="center" valign="middle">
                                         <p>0,040</p>
@@ -4084,7 +4084,7 @@
                 </sec>
                 <sec id="id-6423e5d5-db36-4a4c-9225-654f6d35cde4"><label>NA.E.1</label>
                     <title>General (indicative strength classes for durability)</title>
-                    <p>NA.E.1(2) A realistic expected strength for the actual durability class should be used in the design. The strength that may be expected for the various durability classes will, among other factors, be affected by the type of cement, the aggregate, and additives (silica, fly ash and slag). It will normally vary according to local conditions and should therefore be specified for the individual project. In <xref rid="id-02baccee-6584-4d73-b578-28bc4bd71f03" ref-type="table">Table NA.E.1N</xref>, values are given that may represent a lower limit for expected strength. Therefore, it should not be assumed that the values for expected strength will be lower than those that are given in the table.</p>
+                    <p>NA.E.1(2) A realistic expected strength for the actual durability class should be used in the design. The strength that may be expected for the various durability classes will among other factors be affected by the type of cement, the aggregate, and additives (silica, fly ash and slag). It will normally vary with local conditions and should therefore be specified for the individual project. In <xref rid="id-02baccee-6584-4d73-b578-28bc4bd71f03" ref-type="table">Table NA.E.1N</xref>, values are given that may represent a lower limit for expected strength. Therefore, it should not be assumed that the values for expected strength will be lower than those that are given in the table.</p>
                     <table-wrap id="id-02baccee-6584-4d73-b578-28bc4bd71f03"><label>Table NA.E.1N</label>
                         <caption>
                             <title>Indicative lower values for expected strength for the various durability classes</title>
@@ -4148,7 +4148,7 @@
                         </table>
                     </table-wrap>
                 </sec>
-                <sec id="id-e48423b7-08f8-4061-d756-74d6abf0ea89"><label />
+                <sec id="id-e48423b7-08f8-4061-d756-74d6abf0ea89"><label></label>
                     <title>The use of informative annexes</title>
                     <p>Annex A may be used as an informative annex with the provisions that are given in this National Annex.</p>
                     <p>Annex B is informative</p>
